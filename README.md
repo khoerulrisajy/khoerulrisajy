@@ -48,9 +48,8 @@ I'm interested in creating websites that are not only functional, but also simpl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khoerulrisajy&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoerulrisajy&layout=compact&theme=default&hide_border=true" height="165"/>
+> I'm still not very familiar with GitHub yet,
+> but I'm excited to keep learning and exploring it step by step. 🚀
 
 </div>
 
