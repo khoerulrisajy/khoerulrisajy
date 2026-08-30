@@ -14,7 +14,7 @@
 
 ## 👩🏻‍💻 About Me
 
-Hi! I'm **Risa Khoerul**, an Informatics Student who enjoys exploring the world of web development and UI/UX design.
+Hi! I'm **Risa Khoerul Ummah**, an Informatics Student who enjoys exploring the world of web development and UI/UX design.
 
 I'm interested in creating websites that are not only functional, but also simple, clean, and enjoyable to use.
 
